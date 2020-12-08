@@ -1,9 +1,6 @@
 # project-Particle-filter-for-robot-localization
 AI project: Particle filter for robot localization  
-Team of maximum 3 students: 
-Submit on 27/04/2020 
-Grade out of 40%. 
-No work outside the project team at all 
+
 A robot is located on a long corridor and moving along it. It uses a heat sensor that measures the  temperate of its position. This temperature depends on the heat radiators on the wall. 
 A robot is located on a long corridor and moving along it. It uses a heat sensor that measures the  temperate of its position. This temperature depends on the heat radiators on the wall. The following  figure shows an example of temperature readings around the corridor, the two radiates (in red)  participate in the change of temperature reading (in blue). The robot and its direction are shown in  black. Few particles are shown in green. 
 Use the idea of particle filter to perform robot localization in 1-d space. 
